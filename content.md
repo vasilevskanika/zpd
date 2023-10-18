@@ -2,8 +2,9 @@
 
 ### Saturs 
 
-### 1. Aprakstīt spēli 
-### 2.Spēles loģika
+#### 1. Aprakstīt spēli 
+#### 2.Spēles loģika
+
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
 
 Spēles loģika ir labi aprakstīta sājā kodā:
