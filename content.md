@@ -9,10 +9,10 @@ SpēleDators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā 
 Spēles loģika ir labi aprakstīta sājā kodā:s loģika 
 
 
-import random
+  import random
 
-repeat = True
-while repeat:
+    repeat = True
+    while repeat:
     number = random.randint(1, 100)
     guess = 0
     tries = 0
