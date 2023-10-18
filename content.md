@@ -4,16 +4,15 @@
 
 #### 1. Aprakstīt spēli 
 #### 2.Spēles loģika
-
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
 
 Spēles loģika ir labi aprakstīta sājā kodā:
 
-    import random
+import random
 
-    repeat = True
+repeat = True
 
-    while repeat:
+while repeat:
     number = random.randint(1, 100)
     guess = 0
     tries = 0
@@ -43,4 +42,5 @@ Spēles loģika ir labi aprakstīta sājā kodā:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
+
 ### 3. Un t.t
