@@ -12,6 +12,7 @@ Spēles loģika ir labi aprakstīta sājā kodā:s loģika
     import random
 
     repeat = True
+    
     while repeat:
     number = random.randint(1, 100)
     guess = 0
